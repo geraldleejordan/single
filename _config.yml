@@ -1,8 +1,8 @@
 # Setup
-title:               Novel
-tagline:             'Lee Australis'
+title:               Single
+tagline:             'Gerald Lee Jordan'
 description:         'Draft'
-url:                 https://novel.geraldleejordan.com
+url:                 https://single.geraldleejordan.com
 baseurl:             /
 paginate:            5
 permalink:           pretty
